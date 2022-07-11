@@ -45,3 +45,14 @@
 * 2차 변경 : batch 기능을 이용한 프로그램 자동 실행 기능 추가
 
 ## 👀 실행 화면
+> StartLogingProgram
+<img width="80%" src="https://user-images.githubusercontent.com/46039671/178288556-0ba50e83-3812-4a97-a786-78ccc6c69e77.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/46039671/178288636-49e8c364-f176-4d47-b058-24cd7ed2b3fa.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/46039671/178288645-9b724377-63f3-4636-bde7-38d89f9b53fa.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/46039671/178288648-5bfa53c3-8e12-43bf-9168-c5f83da21bc2.png"/>
+</br>
+</br>
+
+> AutoLogingProgram
+<img width="80%" src="https://user-images.githubusercontent.com/46039671/178288652-25d0f5fa-5ef5-4ce4-8239-e381c172362b.png"/>
+
