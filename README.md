@@ -39,6 +39,9 @@
 ## Technologies
 <img src="https://img.shields.io/badge/git-red?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft SQL Server-blue?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/> <img src="https://img.shields.io/badge/Windows System language-orange?style=flat-square&logo=Windows&logoColor=white"/>
 
+## IDEA
+<img src="https://img.shields.io/badge/Pycharm-F8DC75?style=flat-square&logo=Pycharm&logoColor=white"/>
+
 ## 🚀 기능 변경
 * 1차 변경 : OTP 기능 및 로그인 기능 삭제 
 * 2차 변경 : 기록 데이터 복호화 기능 추가
